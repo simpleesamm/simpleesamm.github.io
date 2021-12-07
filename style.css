@@ -380,7 +380,7 @@ section .title::after{
 
 /* teams section styling */
 .teams .title::after{
-    content: "Projects Actually Worth Noting";
+    content: "Images Link to the Actual Projects";
 }
 .teams .carousel .card{
     background: #222;
