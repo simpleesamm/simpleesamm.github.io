@@ -416,8 +416,15 @@ section .title::after{
     border: 5px solid crimson;
     transition: all 0.3s ease;
 }
+
 .teams .carousel .card:hover img{
     border-color: #fff;
+}
+
+.teams video {
+    width: 100%;
+    height: auto;
+    margin-top: 5%;
 }
 .owl-dots{
     text-align: center;
@@ -440,6 +447,7 @@ section .title::after{
 .owl-dot:hover{
     background: crimson!important;
 }
+
 
 /* contact section styling */
 .contact .title::after{
